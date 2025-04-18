@@ -28,10 +28,10 @@ Make sure you have the following installed:
 
 ```bash
 # 1. Clone the repo
-git clone 
+git clone https://github.com/shiva222/bookMyAppointment.git
 
 # 2. Navigate into the project folder
-cd 
+cd bookMyAppointment
 
 # 3. Install dependencies
 npm install
